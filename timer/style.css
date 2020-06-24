@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Paytone+One&display=swap");
+body{
+    background: #000;
+    text-align: center;
+}
+
+
+.timer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: azure;
+    font-size: 16px;
+    font-family: 'Paytone One', sans-serif;
+}
+
+.number{
+    font-size: 80px;
+
+}
+
+td{
+    padding: 0 20px;
+    display: inline-block;
+    width: 200px;
+}
+
+.happyBithday{
+    font-size: 30px;
+}
