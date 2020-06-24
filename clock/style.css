@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Paytone+One&display=swap");
+body{
+    background: #000;
+}
+
+.clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: azure;
+    font-size: 80px;
+    font-family: 'Paytone One', sans-serif;
+}
